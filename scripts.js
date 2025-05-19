@@ -4,7 +4,7 @@
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
 */
 //
-// Scripts
+// Scripts testing
 // 
 
 window.addEventListener('DOMContentLoaded', event => {
